@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class User_Create {
+    public partial class User_Create_aspx {
         
         /// <summary>
         /// Control CreateUserWizard1.

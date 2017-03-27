@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Calendar {
+    public partial class Calendar_aspx {
         
         /// <summary>
         /// Control form1.

@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class TimeEntry {
+    public partial class TimeEntry_aspx {
         
         /// <summary>
         /// Control TimeEntryView.

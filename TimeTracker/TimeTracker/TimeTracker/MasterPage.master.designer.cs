@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class MasterPage {
+    public partial class MasterPage_aspx {
         
         /// <summary>
         /// Control form1.

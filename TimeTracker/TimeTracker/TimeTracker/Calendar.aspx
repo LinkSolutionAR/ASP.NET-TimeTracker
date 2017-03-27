@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Calendar.aspx.cs" Inherits="TimeTracker.TimeTracker.Calendar" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Calendar.aspx.cs" Inherits="TimeTracker.TimeTracker.Calendar_aspx" %>
 
 <!DOCTYPE html>
 

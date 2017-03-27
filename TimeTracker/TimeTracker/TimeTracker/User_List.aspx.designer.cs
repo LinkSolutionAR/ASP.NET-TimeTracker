@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class User_List {
+    public partial class User_List_aspx {
         
         /// <summary>
         /// Control UserData.

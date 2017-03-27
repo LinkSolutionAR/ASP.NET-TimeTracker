@@ -5,9 +5,9 @@ using System.Web.UI.WebControls;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class Report_Project : System.Web.UI.Page
+    public partial class Report_Project_aspx : System.Web.UI.Page
     {
-        public Report_Project()
+        public Report_Project_aspx()
         {
         }
 

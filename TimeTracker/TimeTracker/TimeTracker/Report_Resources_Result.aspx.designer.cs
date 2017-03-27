@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Report_Resources_Result {
+    public partial class Report_Resources_Result_aspx {
         
         /// <summary>
         /// Control UserReportData.

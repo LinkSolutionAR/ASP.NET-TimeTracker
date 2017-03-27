@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Project_Details {
+    public partial class Project_Details_aspx {
         
         /// <summary>
         /// Control Label1.

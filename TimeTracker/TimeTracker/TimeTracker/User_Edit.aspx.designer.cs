@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class User_Edit {
+    public partial class User_Edit_aspx {
         
         /// <summary>
         /// Control form1.

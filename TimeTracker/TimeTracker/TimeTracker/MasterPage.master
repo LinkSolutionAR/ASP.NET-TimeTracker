@@ -1,4 +1,4 @@
-<%@ master language="C#" autoeventwireup="true" codebehind="MasterPage.master.cs" inherits="TimeTracker.TimeTracker.MasterPage" %>
+<%@ master language="C#" autoeventwireup="true" codebehind="MasterPage.master.cs" inherits="TimeTracker.TimeTracker.MasterPage_aspx" %>
 
 <!DOCTYPE html>
 

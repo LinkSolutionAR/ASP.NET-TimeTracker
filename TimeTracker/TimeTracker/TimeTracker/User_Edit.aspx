@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" codebehind="User_Edit.aspx.cs" inherits="TimeTracker.TimeTracker.User_Edit" %>
+﻿<%@ page language="C#" autoeventwireup="true" codebehind="User_Edit.aspx.cs" inherits="TimeTracker.TimeTracker.User_Edit_aspx" %>
 
 <!DOCTYPE html>
 

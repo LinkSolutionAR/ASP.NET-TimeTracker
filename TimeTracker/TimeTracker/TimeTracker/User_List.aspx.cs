@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class User_List : System.Web.UI.Page
+    public partial class User_List_aspx : System.Web.UI.Page
     {
-        public User_List()
+        public User_List_aspx()
         {
         }
 

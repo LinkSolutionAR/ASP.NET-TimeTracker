@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/TimeTracker/MasterPage.master" CodeBehind="Report_Project.aspx.cs" Inherits="TimeTracker.TimeTracker.Report_Project" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/TimeTracker/MasterPage.master" CodeBehind="Report_Project.aspx.cs" Inherits="TimeTracker.TimeTracker.Report_Project_aspx" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="maincontent" runat="Server">
     <div id="projectreport">

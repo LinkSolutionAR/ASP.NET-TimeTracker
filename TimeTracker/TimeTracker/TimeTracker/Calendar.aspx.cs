@@ -5,12 +5,12 @@ using System.Web.UI.WebControls;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class Calendar : System.Web.UI.Page
+    public partial class Calendar_aspx : System.Web.UI.Page
     {
         public string controlToEdit;
         public string isPostBack;
 
-        public Calendar()
+        public Calendar_aspx()
         {
             LoadComplete += new EventHandler(Page_LoadComplete);
         }

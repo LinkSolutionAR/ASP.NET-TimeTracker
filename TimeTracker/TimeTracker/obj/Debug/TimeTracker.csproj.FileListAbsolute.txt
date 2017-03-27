@@ -1,68 +1,3 @@
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csc.exe
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csc.exe.config
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csc.rsp
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csi.exe
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csi.rsp
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.AppContext.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Collections.Immutable.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.IO.FileSystem.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\vbc.exe
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\vbc.exe.config
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\vbc.rsp
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\VBCSCompiler.exe
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\VBCSCompiler.exe.config
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\TimeTracker.dll.config
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\TimeTracker.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\TimeTracker.pdb
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Antlr3.Runtime.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Microsoft.Web.Infrastructure.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Newtonsoft.Json.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\System.Web.Optimization.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\WebGrease.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\System.Web.Optimization.xml
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Antlr3.Runtime.pdb
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\Newtonsoft.Json.xml
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.dll
-c:\users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\csi.exe.config
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Console.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Diagnostics.Process.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.IO.Compression.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.IO.Pipes.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Claims.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Security.Principal.Windows.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Threading.Thread.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.ValueTuple.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Xml.XPath.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\dario\OneDrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\bin\es\System.Web.Optimization.resources.dll
-C:\Users\dario\onedrive\documents\visual studio 2017\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\roslyn\csc.exe
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\roslyn\csc.exe.config
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\roslyn\csc.rsp
@@ -125,6 +60,5 @@ C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\Micr
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\Newtonsoft.Json.xml
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\System.Web.Optimization.xml
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\bin\es\System.Web.Optimization.resources.dll
-C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\obj\Debug\TimeTracker.dll
 C:\Users\dario\Source\Repos\ASP.NET-TimeTracker\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
