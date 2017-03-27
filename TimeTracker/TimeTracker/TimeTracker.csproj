@@ -130,16 +130,16 @@
     <Content Include="web.sitemap" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Code\BLL\Category.cs" />
-    <Compile Include="App_Code\BLL\Project.cs" />
-    <Compile Include="App_Code\BLL\ProjectComparation.cs" />
-    <Compile Include="App_Code\BLL\TimeEntry.cs" />
-    <Compile Include="App_Code\BLL\UserReport.cs" />
-    <Compile Include="App_Code\BLL\UserTotalDurationReport.cs" />
-    <Compile Include="App_Code\DAL\DataAccessHelper.cs" />
-    <Compile Include="App_Code\DAL\DataAcess.cs" />
-    <Compile Include="App_Code\DAL\SQLDataAccessLayer.cs" />
-    <Compile Include="App_Code\BLL\DefaultValue.cs" />
+    <Compile Include="BLL\Category.cs" />
+    <Compile Include="BLL\Project.cs" />
+    <Compile Include="BLL\ProjectComparation.cs" />
+    <Compile Include="BLL\TimeEntry.cs" />
+    <Compile Include="BLL\UserReport.cs" />
+    <Compile Include="BLL\UserTotalDurationReport.cs" />
+    <Compile Include="DAL\DataAccessHelper.cs" />
+    <Compile Include="DAL\DataAcess.cs" />
+    <Compile Include="DAL\SQLDataAccessLayer.cs" />
+    <Compile Include="BLL\DefaultValue.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Default.aspx.cs">

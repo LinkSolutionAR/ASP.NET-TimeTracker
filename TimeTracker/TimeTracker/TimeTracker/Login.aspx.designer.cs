@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Login {
+    public partial class Login_aspx {
         
         /// <summary>
         /// Control Login1.

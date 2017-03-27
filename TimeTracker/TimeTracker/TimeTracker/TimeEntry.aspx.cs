@@ -5,9 +5,9 @@ using TimeTracker.BLL;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class TimeEntry : System.Web.UI.Page
+    public partial class TimeEntry_aspx : System.Web.UI.Page
     {
-        public TimeEntry()
+        public TimeEntry_aspx()
         {
         }
 
@@ -63,15 +63,13 @@ namespace TimeTracker.TimeTracker
 
         protected void AddEntry_Click(object sender, System.EventArgs e)
         {
-
-            BLL.TimeEntry timeEntry = new BLL.TimeEntry(Page.User.Identity.Name, Convert.ToInt32(CategoryList.SelectedValue), Convert.ToDecimal(Hours.Text), DateTime.Now, UserList.SelectedValue);
+            TimeEntry timeEntry = new TimeEntry(Page.User.Identity.Name, Convert.ToInt32(CategoryList.SelectedValue), Convert.ToDecimal(Hours.Text), DateTime.Now, UserList.SelectedValue);
             timeEntry.Description = Description.Text;
             timeEntry.Save();
 
             Description.Text = string.Empty;
             Hours.Text = string.Empty;
             ProjectListGridView.DataBind();
-
         }
 
         protected void Cancel_Click(object sender, EventArgs args)
@@ -82,7 +80,6 @@ namespace TimeTracker.TimeTracker
 
         protected void CustomValidator1_ServerValidate(object source, ServerValidateEventArgs args)
         {
-
             if (Description.Text.Length > 200)
                 args.IsValid = false;
             else

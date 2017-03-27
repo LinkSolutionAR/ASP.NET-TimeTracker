@@ -4,9 +4,9 @@ using System.Web.UI;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class Login : System.Web.UI.Page
+    public partial class Login_aspx : System.Web.UI.Page
     {
-        public Login()
+        public Login_aspx()
         {
         }
 

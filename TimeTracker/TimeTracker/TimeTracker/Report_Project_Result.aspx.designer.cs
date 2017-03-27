@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Report_Project_Result {
+    public partial class Report_Project_Result_aspx {
         
         /// <summary>
         /// Control NoData.

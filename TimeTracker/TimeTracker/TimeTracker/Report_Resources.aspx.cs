@@ -6,9 +6,9 @@ using TimeTracker.BLL;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class Report_Resources : System.Web.UI.Page
+    public partial class Report_Resources_aspx : System.Web.UI.Page
     {
-        public Report_Resources()
+        public Report_Resources_aspx()
         {
         }
 

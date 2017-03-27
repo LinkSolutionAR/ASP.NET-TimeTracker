@@ -10,7 +10,7 @@
 namespace TimeTracker.TimeTracker {
     
     
-    public partial class Project_List {
+    public partial class Project_List_aspx {
         
         /// <summary>
         /// Control ProjectData.

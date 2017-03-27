@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" masterpagefile="~/TimeTracker/MasterPage.master" codebehind="Login.aspx.cs" inherits="TimeTracker.TimeTracker.Login" %>
+﻿<%@ page language="C#" autoeventwireup="true" masterpagefile="~/TimeTracker/MasterPage.master" codebehind="Login.aspx.cs" inherits="TimeTracker.TimeTracker.Login_aspx" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="maincontent" runat="Server">
     <div id="adminedit">

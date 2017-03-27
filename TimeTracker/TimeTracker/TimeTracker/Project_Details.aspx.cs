@@ -8,9 +8,9 @@ using TimeTracker.BLL;
 
 namespace TimeTracker.TimeTracker
 {
-    public partial class Project_Details : System.Web.UI.Page
+    public partial class Project_Details_aspx : System.Web.UI.Page
     {
-        public Project_Details()
+        public Project_Details_aspx()
         {
             LoadComplete += new EventHandler(Page_LoadComplete);
         }
