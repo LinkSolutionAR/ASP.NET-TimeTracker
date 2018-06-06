@@ -34,13 +34,18 @@ namespace TimeTracker
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                             "~/Scripts/modernizr-*"));
 
-            ScriptManager.ScriptResourceMapping.AddDefinition(
-                "respond",
-                new ScriptResourceDefinition
-                {
-                    Path = "~/Scripts/respond.min.js",
-                    DebugPath = "~/Scripts/respond.js",
-                });
+            ScriptManager.ScriptResourceMapping.AddDefinition("respond",new ScriptResourceDefinition
+            {
+                Path = "~/Scripts/respond.min.js",
+                DebugPath = "~/Scripts/respond.js"
+            });
+
+
+            bundles.Add(new StyleBundle("~/Content/styles").Include(
+                "~/timetracker.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/scripts").Include(
+                "~/script.js"));
         }
     }
 }

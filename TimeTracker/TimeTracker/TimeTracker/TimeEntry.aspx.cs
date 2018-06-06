@@ -63,7 +63,7 @@ namespace TimeTracker.TimeTracker
 
         protected void AddEntry_Click(object sender, System.EventArgs e)
         {
-            TimeEntry timeEntry = new TimeEntry(Page.User.Identity.Name, Convert.ToInt32(CategoryList.SelectedValue), Convert.ToDecimal(Hours.Text), DateTime.Now, UserList.SelectedValue);
+            TimeEntry timeEntry = new TimeEntry(Page.User.Identity.Name, Convert.ToInt32(CategoryList.SelectedValue), Convert.ToDecimal(Hours.Text), DateTime.Parse(WeekEnding2.Text) /*DateTime.Now*/, UserList.SelectedValue);
             timeEntry.Description = Description.Text;
             timeEntry.Save();
 
