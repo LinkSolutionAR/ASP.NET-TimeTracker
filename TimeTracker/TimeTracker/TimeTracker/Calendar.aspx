@@ -4,11 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>My Company - Time Tracker - Select Date</title>
+    <title>Linksolution - Time Tracker - Select Date</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <meta name="generator" content="Microsoft Visual Studio, see http://msdn.microsoft.com/vstudio/" />
     <meta name="Description" content="Select a date" />
-    <meta name="copyright" content="Copyright (c) 2004 My Company. All rights reserved." />
+    <meta name="copyright" content="Copyright (c) 2004 Linksolution. All rights reserved." />
     <link href="timetracker.css" rel="stylesheet" type="text/css" />
 </head>
 <body>

@@ -19,7 +19,6 @@ namespace WebApplication1
                 {
                     Roles.CreateRole("ProjectManager");
                 }
-
                 if (!Roles.RoleExists("Consultant"))
                 {
                     Roles.CreateRole("Consultant");
