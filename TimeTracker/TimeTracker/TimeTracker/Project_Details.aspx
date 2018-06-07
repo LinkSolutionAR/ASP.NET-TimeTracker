@@ -221,7 +221,7 @@
                     DataSourceID="ProjectData" DataValueField="Id" DataTextField="Name" OnPreRender="ProjectList_PreRender" />
                 <br />
                 <asp:Button ID="CopyButton" runat="server" Width="46" CausesValidation="False" CssClass="standard-text"
-                    Text="Copy" OnClick="CopyButton_Click" Enabled="false"></asp:Button>
+                    Text="Copy" OnClick="CopyButton_Click" Enabled="True"></asp:Button>
             </p>
             <p>
                 <asp:Label ID="ErrorMessage" runat="server" CssClass="standard-text" EnableViewState="False"

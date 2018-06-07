@@ -24,16 +24,6 @@ namespace WebApplication1
                     Roles.CreateRole("Consultant");
                 }
             }
-
-            //string username = "dario.rick";
-            //string password = "#D92J(:p)E";
-            //MembershipUser mu = Membership.GetUser(username);
-            //mu.UnlockUser();
-            //mu.ChangePassword(mu.ResetPassword("Dario"), password);
-
-            //MembershipUser usr = Membership.GetUser(username);
-            //string resetPwd = usr.ResetPassword();
-            //usr.ChangePassword(resetPwd, password);
         }
     }
 }
